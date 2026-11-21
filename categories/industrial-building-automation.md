@@ -25,8 +25,8 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 
 | Project | What it does | ★ | Health | Lang |
 |---|---|--:|:-:|---|
-| [inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 702 | 🟢 | Python |
-| [meerk40t](https://github.com/meerk40t/meerk40t) | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 451 | 🟢 | Python |
+| [inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette) | Inkscape extension driving Silhouette vinyl cutters via their reverse-engineered USB protocol | 703 | 🟢 | Python |
+| [meerk40t](https://github.com/meerk40t/meerk40t) | Laser software for K40 (reverse-engineered M2 Nano/Lihuiyu), GRBL and fibre lasers | 452 | 🟢 | Python |
 | [pyLSV2](https://github.com/drunsinn/pyLSV2) | Pure-Python implementation of Heidenhain's LSV2 CNC control protocol | 95 | 🟢 | Python |
 | [cnc3018-offline-controller](https://github.com/positron96/cnc3018-offline-controller) | Open-source firmware for the CNC3018 offline controller | 89 | 🟢 | C++ |
 | [ruida-laser](https://github.com/jnweiger/ruida-laser) | Reverse-engineered protocol and file format of Ruida laser controllers (RDWorks, USB, Ethernet) | 66 | 🟢 | R |
@@ -118,7 +118,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [esphome_toshiba_suzumi](https://github.com/pedobry/esphome_toshiba_suzumi) | ESPHome component for Toshiba air conditioners via their serial protocol | 121 | 🟢 | C++ |
 | [inetbox.py](https://github.com/danielfett/inetbox.py) | Software implementation of a Truma iNet box for Truma CP Plus caravan heaters over LIN | 121 | 🟢 | Python |
 | [remeha_home](https://github.com/msvisser/remeha_home) | Home Assistant integration for the private Remeha Home cloud API | 119 | 🟡 | Python |
-| [ESP_Buderus_KM271](https://github.com/dewenni/ESP_Buderus_KM271) | Controls Buderus Logamatic heating via the KM271 interface with MQTT | 116 | 🟢 | C++ |
+| [ESP_Buderus_KM271](https://github.com/dewenni/ESP_Buderus_KM271) | Controls Buderus Logamatic heating via the KM271 interface with MQTT | 117 | 🟢 | C++ |
 | [infinitive](https://github.com/acd/infinitive) | Impersonates a SAM on the Carrier Infinity ABCD RS-485 bus for local control | 116 | 🔴 | Go |
 | [FujiHeatPump](https://github.com/unreality/FujiHeatPump) | Control Fujitsu air conditioners from Arduino via the reverse-engineered indoor-unit bus | 108 | 🔴 | C++ |
 | [esphome-truma_inetbox](https://github.com/Fabian-Schmidt/esphome-truma_inetbox) | ESPHome component to control Truma CP Plus heaters over LIN | 103 | 🟡 | C++ |
@@ -146,7 +146,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [homeassistant-vcontrol](https://github.com/Alexandre-io/homeassistant-vcontrol) | Home Assistant add-on for vcontrold, reading Viessmann heaters over Optolink | 55 | 🟢 | Shell |
 | [esphome_vitoconnect](https://github.com/dannerph/esphome_vitoconnect) | ESPHome component for Viessmann heating via the Optolink interface | 50 | 🟢 | C++ |
 | [python-luxtronik](https://github.com/Bouni/python-luxtronik) | Python library for the Luxtronik heat pump controller (Alpha Innotec, Novelan) protocol | 50 | 🟢 | Python |
-| [km271-wifi](https://github.com/the78mole/km271-wifi) | Hardware for Buderus Logamatic 2107 boilers giving status and control over Wi-Fi via the KM271 protocol | 48 | 🟢 | HTML |
+| [km271-wifi](https://github.com/the78mole/km271-wifi) | Hardware for Buderus Logamatic 2107 boilers giving status and control over Wi-Fi via the KM271 protocol | 49 | 🟢 | HTML |
 | [ESPHome-Froeling-Lambdatronic_3200](https://github.com/GyroGearl00se/ESPHome-Froeling-Lambdatronic_3200) | ESPHome RS232 reader for Fröling Lambdatronic 3200 boilers | 47 | 🟢 | CSS |
 | [maestrogateway](https://github.com/Chibald/maestrogateway) | Gateway for MCZ pellet stoves with Maestro technology via their websocket protocol | 46 | 🔴 | Python |
 | [esphome_gree_ac](https://github.com/piotrva/esphome_gree_ac) | ESPHome component for Gree air conditioners over the UART wifi-module port | 45 | 🟢 | C++ |
@@ -261,7 +261,7 @@ Health: 🟢 pushed in the last year · 🟡 1 to 3 years · 🔴 over 3 years �
 | [SoftPlc](https://github.com/fbarresi/SoftPlc) | Software PLC that emulates a Siemens S7 server over S7comm, with Docker support | 154 | 🟡 | C# |
 | [node-red-contrib-s7](https://github.com/st-one-io/node-red-contrib-s7) | Node-RED nodes to read and write Siemens S7 PLCs via a JS S7comm implementation | 136 | 🟢 | HTML |
 | [libfins](https://github.com/lammertb/libfins) | Multi-platform C library for the Omron FINS PLC protocol | 134 | 🟡 | C |
-| [acd](https://github.com/hutcheb/acd) | Tools to parse Rockwell Studio 5000 .ACD project files, a proprietary binary format | 122 | 🟢 | Python |
+| [acd](https://github.com/hutcheb/acd) | Tools to parse Rockwell Studio 5000 .ACD project files, a proprietary binary format | 123 | 🟢 | Python |
 | [mcprotocol](https://github.com/plcpeople/mcprotocol) | Node.js implementation of the Mitsubishi MC protocol for FX/Q/L PLCs | 121 | 🔴 | JavaScript |
 | [scada-stuff](https://github.com/nezza/scada-stuff) | Scripts and tools for reverse engineering SCADA/ICS devices | 110 | 🔴 | Python |
 | [pymcprotocol](https://github.com/senrust/pymcprotocol) | Python implementation of the Mitsubishi MELSEC MC protocol | 107 | 🟡 | Python |
