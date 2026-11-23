@@ -922,5 +922,17 @@
   "name": "333networks MasterServer",
   "removed": "2026-11-20",
   "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/grant-might/Colosseum_Decomp",
+  "name": "Pokémon Colosseum decomp",
+  "removed": "2026-11-23",
+  "reason": "not found on GitHub"
+ },
+ {
+  "url": "https://github.com/elprogramadorloco-arch/fuc-recomp",
+  "name": "fuc-recomp",
+  "removed": "2026-11-23",
+  "reason": "not found on GitHub"
  }
 ]
